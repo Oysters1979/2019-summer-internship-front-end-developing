@@ -8,7 +8,7 @@ Aug. 1 ~ Aug. 14
         3) zuiku.zip: 最酷网前端模拟开发
     2. how to run:
         1) download any one of the .zip file you want to see
-        2) open the index.html in the Chrome browser
+        2) view the corresponding .html file in the Chrome browser
      
  - Final Project:
     1. contents:
