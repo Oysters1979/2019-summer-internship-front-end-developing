@@ -12,7 +12,7 @@ Aug. 1 ~ Aug. 14
      
  - Final Project:
     1. contents:
-        1) 
+        Jingdong Responsive Web Developing
     2. how to run:
         1) download any one of the .zip file you want to see
         2) open the index.html in the Chrome browser
